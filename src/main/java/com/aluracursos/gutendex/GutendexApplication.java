@@ -20,5 +20,4 @@ public class GutendexApplication implements CommandLineRunner {
 		Main main = new Main();
 		main.bookChallenge();
 	}
-
 }
